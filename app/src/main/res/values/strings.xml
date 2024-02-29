@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr6</string>
+    <string name="select_bck">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="blue">Синий</string>
+
+</resources>
